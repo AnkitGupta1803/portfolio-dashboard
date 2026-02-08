@@ -1,0 +1,52 @@
+{
+  "AAPL": {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "peRatio": 28.5,
+    "eps": 6.12,
+    "marketCap": "2.8T",
+    "price": 175,
+    "change": 1.25,
+    "changePercent": 0.72
+  },
+  "GOOGL": {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "peRatio": 25.3,
+    "eps": 6.5,
+    "marketCap": "1.7T",
+    "price": 173.5,
+    "change": -0.75,
+    "changePercent": -0.43
+  },
+  "MSFT": {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "peRatio": 32.1,
+    "eps": 9.26,
+    "marketCap": "2.5T",
+    "price": 297.8,
+    "change": 2.1,
+    "changePercent": 0.71
+  },
+  "AMZN": {
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc.",
+    "peRatio": 62.8,
+    "eps": 7.1,
+    "marketCap": "1.8T",
+    "price": 185.42,
+    "change": 0.85,
+    "changePercent": 0.46
+  },
+  "TSLA": {
+    "symbol": "TSLA",
+    "name": "Tesla Inc.",
+    "peRatio": 70.2,
+    "eps": 3.72,
+    "marketCap": "950B",
+    "price": 260.15,
+    "change": -3.2,
+    "changePercent": -1.21
+  }
+}
